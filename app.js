@@ -3,7 +3,7 @@
 const infoDisplay = document.querySelector('#info')
 const scoredisplay = document.querySelector('#score')
 infoDisplay.textContent = "Are you increasing or decreasing methane?"
-
+//adding a comment
 
 //animate init
 const canvas = document.getElementById('Biome1')
